@@ -31,7 +31,7 @@ public class Main {
                             Thanks
                 """;
 
-        // in questo modo ho creato una nuova variabile long
+        // in questo modo ho creato una nuova variabile long.git status
 
         long questionableFundsEuro = 5_000_000_000l;
         long updatedMyBankBalanceEuro = myBankBalanceEuro + questionableFundsEuro;
