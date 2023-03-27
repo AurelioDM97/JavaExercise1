@@ -1,0 +1,34 @@
+
+e
+java:S1854"JRemove this useless assignment to local variable "suspiciousEmailMessage".(àğ¹íÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞŸúüÿÿÿÿ
+V
+java:S1481";Remove this unused "suspiciousEmailMessage" local variable.(àğ¹íÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(âÓïûÿÿÿÿ
+Y
+java:S1854T">Remove this useless assignment to local variable "monthValue".(®­Â±øÿÿÿÿ
+U
+java:S1854S"@Remove this useless assignment to local variable "currentMonth".(“ŸÓd
+V
+java:S1854R"@Remove this useless assignment to local variable "dayOfTheYear".(¼Íú«
+_
+java:S1854Q"DRemove this useless assignment to local variable "currentDayOfWeek".(ßú­ÿÿÿÿÿ
+^
+java:S1854P"CRemove this useless assignment to local variable "currentMonthDay".(Èÿ˜úıÿÿÿÿ
+U
+java:S1854N":Remove this useless assignment to local variable "format".(ä‰®¥ùÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.( ÖÀ¨
+F
+java:S1481N"+Remove this unused "format" local variable.(ä‰®¥ùÿÿÿÿ
+O
+java:S1481P"4Remove this unused "currentMonthDay" local variable.(Èÿ˜úıÿÿÿÿ
+P
+java:S1481Q"5Remove this unused "currentDayOfWeek" local variable.(ßú­ÿÿÿÿÿ
+G
+java:S1481R"1Remove this unused "dayOfTheYear" local variable.(¼Íú«
+F
+java:S1481S"1Remove this unused "currentMonth" local variable.(“ŸÓd
+J
+java:S1481T"/Remove this unused "monthValue" local variable.(®­Â±øÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(œ…ôÍıÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Ê‰„şÿÿÿÿ

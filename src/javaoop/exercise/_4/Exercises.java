@@ -3,6 +3,9 @@ package javaoop.exercise._4;
 import java.util.Random;
 
 public class Exercises {
+    private static final int WEEKS_IN_A_YEAR = 52;
+    private static final int DAYS_IN_A_WEEK = 7;
+    private static final int HOURS_IN_A_DAY = 24;
     public static void main(String[] args) {
         exercise1();
         exercise2();
@@ -17,17 +20,20 @@ public class Exercises {
         System.out.println("Exercise 1:");
 
         int totalCount = 0;
+        int currentCount = 0;
 
         for (int i = 0; i < 100; i++) {
             int luckyRolls = 0;
             while (rollD6() == 6) {
                 luckyRolls++;
+                currentCount = luckyRolls;
             }
             totalCount += luckyRolls;
             luckyRolls = 0;
         }
 
         System.out.println(totalCount);
+        System.out.println(currentCount);
     }
 
     private static Random random = new Random();
@@ -72,12 +78,13 @@ public class Exercises {
     public static void exercise4() {
         System.out.println("\nExercise 4:");
 
-        for (int week = 0; week < 52; week++) {
-            for (int day = 0; day < 7; day++) {
-                for (int hour = 0; hour < 24; hour++) {
+        for (int week= 0; week < WEEKS_IN_A_YEAR; week++) {
+            for (int day = 0; day < DAYS_IN_A_WEEK; day++) {
+                for (int hour = 0; hour < HOURS_IN_A_DAY; hour++) {
                     System.out.println("Week " + week +", day " + day +", hour " + hour);
                 }
             }
         }
+
     }
 }
