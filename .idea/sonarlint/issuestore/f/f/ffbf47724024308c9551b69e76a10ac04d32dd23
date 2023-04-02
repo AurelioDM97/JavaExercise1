@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼‡ºÕùÿÿÿÿ8ÔÛÊéñ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™¯Öñ8ÕÛÊéñ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶òÃ…şÿÿÿÿ8ÖÛÊéñ0
+Q
+java:S1144"/Remove this unused private "printLunch" method.(Á¨Ñ‡øÿÿÿÿ8ÙÛÊéñ0
+S
+java:S1144:"6Remove this unused private "setNameOfDayEaten" method.(Û·ô8ÙÛÊéñ0
+e
+java:S1144B"CRemove this unused private "setNumberOfTimesWeHaveGotPrice" method.(œúŸæøÿÿÿÿ8ÚÛÊéñ0

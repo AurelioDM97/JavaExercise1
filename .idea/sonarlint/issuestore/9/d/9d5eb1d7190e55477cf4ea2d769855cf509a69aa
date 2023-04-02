@@ -1,0 +1,14 @@
+
+`
+java:S1854 ">Remove this useless assignment to local variable "luckyRolls".(Ú›Çıÿÿÿÿ8û¬†’ò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞŸúüÿÿÿÿ8ı¬†’ò0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(óô¢ã8ÿ¬†’ò0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‹ÊûĞıÿÿÿÿ8­†’ò0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(¦¾æÉÿÿÿÿÿ8­†’ò0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(¢Şñúÿÿÿÿ8­†’ò0
+c
+java:S1854C"ARemove this useless assignment to local variable "exerciseLunch".(Ãèãşÿÿÿÿ8­†’ò0
+T
+java:S1481B"2Remove this unused "exerciseLunch" local variable.(õ•ÆÑÿÿÿÿÿ8‘­†’ò0
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(®ÿ¹8•­†’ò0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(‚È¡¾8—­†’ò0
